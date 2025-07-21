@@ -1,4 +1,4 @@
-# myid - Standalone FiveM Script
+# Myid - Standalone FiveM Script
 
 **Made by Xinnex Studios**
 
